@@ -1,6 +1,9 @@
-# Mechanics_Problems_Solutions
+# Mechanics Problems / Solutions
+
+  Included topics:
+  * Center of Mass
+  * Moment of Inertia
 
 Author:    Neer Kuchlous
-
-Updated:   May 18, 2025
+Updated:   July 18, 2025
 
